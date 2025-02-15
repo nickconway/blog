@@ -1,10 +1,14 @@
 ---
-title: "Test 7"
+id: index
+aliases: []
+tags:
+  - test
+categories:
+  - cat
 date: 2024-10-27T19:43:54Z
 draft: true
 modified: 2024-10-28T19:43:54Z
-categories: ["cat"]
-tags: ["test"]
+title: Test 7
 ---
 
 # Perituraque ludit
@@ -13,7 +17,7 @@ tags: ["test"]
 
 Lorem markdownum sed mensis proximitas muneris cuius vertit sub movet silvis
 petunt, uteri. Denique at, **nec unde iniusti**, si animo non tectis, Musa si
-recto se Crocale *Palati est*. Abigoque dedit gesserat venisset diemque et
+recto se Crocale _Palati est_. Abigoque dedit gesserat venisset diemque et
 nubila Achivis trieterica in tenens sponsa Acheronta audacia maenades an nescio,
 hostilia?
 
@@ -54,7 +58,7 @@ natis, et telum, et tellus invenio tollit celebrare opibus aequor quoque.
 > Fratrem Phocus femineis mox cumque non serius emittite Rhodopeius et ipse
 > fossas. Suum doleo meae, iam sive agitataque calidumque audita iuguloque est?
 > Luminis micantes Ialysios munera, nec mea animasque caelumque fasque profanis
-> ponti. Nunc pecudis ait verba corporis *neque tollentes* Ianthe recepto
+> ponti. Nunc pecudis ait verba corporis _neque tollentes_ Ianthe recepto
 > imagine maestus ignara manu.
 
 Crinita piis. Redire et hirsutus non Ceres [sparsus contorta

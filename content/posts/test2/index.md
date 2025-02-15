@@ -1,7 +1,10 @@
 ---
-title: "Test2"
+id: index
+aliases: []
+tags: []
 date: 2024-10-27T19:43:13Z
 draft: true
+title: Test2
 ---
 
 # Perituraque ludit
@@ -10,9 +13,9 @@ draft: true
 
 Lorem markdownum sed mensis proximitas muneris cuius vertit sub movet silvis
 petunt, uteri. Denique at, **nec unde iniusti**, si animo non tectis, Musa si
-recto se Crocale *Palati est*. Abigoque dedit gesserat venisset diemque et
+recto se Crocale _Palati est_. Abigoque dedit gesserat venisset diemque et
 nubila Achivis trieterica in tenens sponsa Acheronta audacia maenades an nescio,
-       hostilia?
+hostilia?
 
        > Cacumine Atlantis Ithaco, loquar, est marmore, **supremos nympha**: nocent
        > etiam quem fetum nostris. Citharae putat virgineas quietis animos iactura,
