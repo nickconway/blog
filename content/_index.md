@@ -1,3 +1,1 @@
 # Hello
-
-![](assets/test.png)
